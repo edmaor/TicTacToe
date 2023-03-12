@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="solo">Game for one</string>
+    <string name="local">friendly match</string>
+    <string name="online">online ranked</string>
+    <string name="online_friendly">online friendly</string>
+    <string name="winner">Winner is player: %1$s</string>
+    <string name="draft">Draft :(</string>
+    <string name="back">Back</string>
+    <string name="new_game">New game</string>
+</resources>
